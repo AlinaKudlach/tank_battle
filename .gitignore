@@ -1,0 +1,8 @@
+build/
+CMakeBuild/
+*.user
+*.user.*
+*.autosave
+Debug/
+Release/
+.qtc_clangd/
